@@ -38,7 +38,7 @@ def toggle(key):
 
     if key == quit:
         clicking = False
-        end = False
+        end = True
         sys.exit()
 
 
